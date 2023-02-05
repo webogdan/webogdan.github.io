@@ -1,0 +1,15 @@
+.title {
+    margin-left: 80px;
+}
+.arrow_left {
+    left: 30px;
+    top: 320px;
+}
+.arrow_right {
+    position: absolute;
+    left: 1130px;
+    top: 320px;
+}
+img {
+    margin-left: 10px;
+}
